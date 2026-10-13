@@ -1,19 +1,25 @@
 # 东西方商人 24 条生意经：2500 年没变的规律
 # Merchants of East and West: 24 Business Principles That Haven't Changed in 2,500 Years
 
-**免费电子书 · Free ebook** · 中文 / English
+**免费电子书 · 免費電子書 · Free ebook** · 简体 / 繁體 / English
 
 > 只讲历史与经营原理，不构成任何投资建议。
 > History and business principles only. Not investment advice of any kind.
 
-## 下载 · Download
+## 下载 · 下載 · Download
 
-| 语言 Language | PDF（手机友好，3:4 页面 / phone-friendly 3:4 pages） |
-|---|---|
-| 中文 | [merchants-east-west-zh.pdf](https://github.com/SheldonZhuang/merchants-of-east-and-west/raw/main/pdf/merchants-east-west-zh.pdf) |
-| English | [merchants-east-west-en.pdf](https://github.com/SheldonZhuang/merchants-of-east-and-west/raw/main/pdf/merchants-east-west-en.pdf) |
+三个版本，PDF 均为手机友好的 3:4 页面。Three editions, phone-friendly 3:4 pages.
 
-Markdown 源文件 / Markdown source: [book/book-zh.md](book/book-zh.md) · [book/book-en.md](book/book-en.md)
+| 版本 Edition | 面向 For | PDF | 联系 Contact |
+|---|---|---|---|
+| 简体中文 | 中国内地 | [merchants-east-west-zh.pdf](https://github.com/SheldonZhuang/merchants-of-east-and-west/raw/main/pdf/merchants-east-west-zh.pdf) | 深圳市凤栖互联网科技有限公司 · sdzhuang888@163.com |
+| 繁體中文 | 香港、台灣 | [merchants-east-west-zh-hant.pdf](https://github.com/SheldonZhuang/merchants-of-east-and-west/raw/main/pdf/merchants-east-west-zh-hant.pdf) | SheldonTek Co., Limited 謝爾頓科技有限公司 · hello@sheldontek.com |
+| English | Overseas | [merchants-east-west-en.pdf](https://github.com/SheldonZhuang/merchants-of-east-and-west/raw/main/pdf/merchants-east-west-en.pdf) | SheldonTek Co., Limited · hello@sheldontek.com |
+
+Markdown 源文件 / Markdown source: [book/book-zh.md](book/book-zh.md) · [book/book-zh-hant.md](book/book-zh-hant.md) · [book/book-en.md](book/book-en.md)
+
+繁體版由简体版逐字转换（OpenCC s2tw，只换字形，不改用词），引文原文不变。
+The traditional-Chinese edition is a character-level conversion of the simplified text (OpenCC s2tw); quotations keep their original wording.
 
 ## 这是什么
 
@@ -45,4 +51,5 @@ Found an error in a quote, a fact or a translation? Please open an issue.
 
 ## 出品与联系 · Publisher and contact
 
-SheldonTek Co., Limited · [sheldontek.com](https://sheldontek.com) · [hello@sheldontek.com](mailto:hello@sheldontek.com)
+- 简体版（中国内地）：深圳市凤栖互联网科技有限公司 · sdzhuang888@163.com
+- 繁體版（香港、台灣）/ English edition: SheldonTek Co., Limited 謝爾頓科技有限公司 · [sheldontek.com](https://sheldontek.com) · [hello@sheldontek.com](mailto:hello@sheldontek.com)

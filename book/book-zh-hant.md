@@ -998,7 +998,7 @@ T 型旅行車從 950 美元一路降到 355 美元，年產量從約 1.9 萬輛
 - 1935 民生實業公司 盧作孚.png — 《工讀試刊》 · Public domain · https://commons.wikimedia.org/wiki/File%3A1935_%E6%B0%91%E7%94%9F%E5%AE%9E%E4%B8%9A%E5%85%AC%E5%8F%B8_%E5%8D%A2%E4%BD%9C%E5%AD%9A.png
 - Fanli (portrait) — Unknown (Ming dynasty) · Public domain · https://commons.wikimedia.org/wiki/File:Fanli.jpg
 
-出品：SheldonTek Co., Limited 謝爾頓科技有限公司 · https://sheldontek.com · hello@sheldontek.com
+聯絡：hello@sheldontek.com
 
 
 > **只講歷史與經營原理，不構成任何投資建議**

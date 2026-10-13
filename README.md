@@ -10,11 +10,11 @@
 
 三个版本，PDF 均为手机友好的 3:4 页面。Three editions, phone-friendly 3:4 pages.
 
-| 版本 Edition | 面向 For | PDF | 联系 Contact |
-|---|---|---|---|
-| 简体中文 | 中国内地 | [merchants-east-west-zh.pdf](https://github.com/SheldonZhuang/merchants-of-east-and-west/raw/main/pdf/merchants-east-west-zh.pdf) | 深圳市凤栖互联网科技有限公司 · sdzhuang888@163.com |
-| 繁體中文 | 香港、台灣 | [merchants-east-west-zh-hant.pdf](https://github.com/SheldonZhuang/merchants-of-east-and-west/raw/main/pdf/merchants-east-west-zh-hant.pdf) | SheldonTek Co., Limited 謝爾頓科技有限公司 · hello@sheldontek.com |
-| English | Overseas | [merchants-east-west-en.pdf](https://github.com/SheldonZhuang/merchants-of-east-and-west/raw/main/pdf/merchants-east-west-en.pdf) | SheldonTek Co., Limited · hello@sheldontek.com |
+| 版本 Edition | 面向 For | PDF |
+|---|---|---|
+| 简体中文 | 中国内地 | [merchants-east-west-zh.pdf](https://github.com/SheldonZhuang/merchants-of-east-and-west/raw/main/pdf/merchants-east-west-zh.pdf) |
+| 繁體中文 | 香港、台灣 | [merchants-east-west-zh-hant.pdf](https://github.com/SheldonZhuang/merchants-of-east-and-west/raw/main/pdf/merchants-east-west-zh-hant.pdf) |
+| English | Overseas | [merchants-east-west-en.pdf](https://github.com/SheldonZhuang/merchants-of-east-and-west/raw/main/pdf/merchants-east-west-en.pdf) |
 
 Markdown 源文件 / Markdown source: [book/book-zh.md](book/book-zh.md) · [book/book-zh-hant.md](book/book-zh-hant.md) · [book/book-en.md](book/book-en.md)
 
@@ -28,7 +28,7 @@ The traditional-Chinese edition is a character-level conversion of the simplifie
 
 24 条生意原则，每一条配一位东方商人和一位西方商人：范蠡与范德比尔特、白圭与坎蒂隆、日昇昌与美第奇、胡雪岩与约翰·劳……
 
-每条包括：两位商人做了什么；一句原始史料原文，标注出处和可信度（★★★ 正史 / 当事人原文，★★ 后人记载，★ 存疑）；一段奥地利学派的解读（明确标为「一种视角」，并附一句其他学派的不同看法）；「今天怎么用」的通用经营建议；对应的视频（简体版：微信视频号「SheldonZhuang」合集「生意经」；繁體版和英文版：YouTube 链接）。
+每条包括：两位商人做了什么；一句原始史料原文，标注出处和可信度（★★★ 正史 / 当事人原文，★★ 后人记载，★ 存疑）；一段奥地利学派的解读（明确标为「一种视角」，并附一句其他学派的不同看法）；「今天怎么用」的通用经营建议；对应的视频（简体版：微信视频号「SheldonZhuang」·「财富规律」栏目合集「生意经」；繁體版和英文版：YouTube 链接）。
 
 所有引文都在构建时与我们保存的原始文本逐字比对过。完整的引文和出处清单见 [sources/quotes.json](sources/quotes.json)。
 
@@ -54,5 +54,4 @@ Found an error in a quote, a fact or a translation? Please open an issue.
 
 ## 出品与联系 · Publisher and contact
 
-- 简体版（中国内地）：深圳市凤栖互联网科技有限公司 · sdzhuang888@163.com
-- 繁體版（香港、台灣）/ English edition: SheldonTek Co., Limited 謝爾頓科技有限公司 · [sheldontek.com](https://sheldontek.com) · [hello@sheldontek.com](mailto:hello@sheldontek.com)
+[hello@sheldontek.com](mailto:hello@sheldontek.com)

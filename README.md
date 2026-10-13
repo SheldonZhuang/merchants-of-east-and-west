@@ -42,3 +42,7 @@ Every quotation was checked character by character against the source texts we s
 
 发现引文、史实或翻译有误，欢迎提 issue。
 Found an error in a quote, a fact or a translation? Please open an issue.
+
+## 出品与联系 · Publisher and contact
+
+SheldonTek Co., Limited · [sheldontek.com](https://sheldontek.com) · [hello@sheldontek.com](mailto:hello@sheldontek.com)

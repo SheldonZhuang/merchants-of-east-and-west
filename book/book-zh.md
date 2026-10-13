@@ -1,6 +1,8 @@
 # 东西方商人 24 条生意经
 *2500 年没变的规律*
 
+财富规律 · 财经与商业史科普短视频（微信视频号）
+
 > **只讲历史与经营原理，不构成任何投资建议**
 
 ## 如何使用
@@ -8,7 +10,7 @@
 - 每一条原则配一位东方商人和一位西方商人：先讲他们做了什么，再引一句原始史料，标出处和可信度。
 - 「奥派的读法」只是一种视角，后面附一句其他学派的不同看法，供你自己判断。
 - 「今天怎么用」只写通用的经营思路，不涉及任何买卖时点、个股或投资建议。
-- 每位商人都有对应的视频（YouTube），可以先读文字，再看片子。
+- 每一条原则都有对应的短视频：微信视频号搜索「SheldonZhuang」（视频号 ID：sphbEuB1KpZPFNp），合集「生意经」第 1–24 集与本书第 1–24 条一一对应。可以先读文字，再看片子。
 - 可以按顺序读，也可以挑你正在面对的问题直接翻到那一条。
 
 ## 出处与可信度
@@ -35,7 +37,7 @@
 >
 > — 《史记·货殖列传》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/xh9u-mRDxoc
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 01 集
 
 ![约翰·劳](images/LawPortrait-04-john-law.jpg)
 
@@ -49,7 +51,7 @@
 >
 > — 1911 Encyclopædia Britannica, 'Law, John' (Vol. 16, by Francis Watt) · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/h2YUJ7sRSGw
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 01 集
 
 **奥派的读法（一种视角）**: 价格是买卖双方的信号。信用和纸币大量扩张时，信号被放大、被扭曲，人们以为是真实需求，顶点之后的回落是对错误投资的清算。
 
@@ -73,7 +75,7 @@
 >
 > — 《史记·货殖列传》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/uLmBWmJJ7sQ
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 02 集
 
 ![J·P·摩根](images/MorganPortrait-09-morgan.jpg)
 
@@ -87,7 +89,7 @@
 >
 > — Alexander Dana Noyes, Forty Years of American Finance (New York: Putnam, 1909), Internet Archive OCR (fortyyearsofamer00noyeuoft), excerpts 1895/1901/1907 · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/NpiFyxMdu-g
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 02 集
 
 **奥派的读法（一种视角）**: 在别人恐慌时有余钱，靠的是平时少花、多储蓄。储蓄是逆周期行动的本钱，不是运气。
 
@@ -111,7 +113,7 @@
 >
 > — 《史记·货殖列传》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/uLmBWmJJ7sQ
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 03 集
 
 ![理查德·坎蒂隆](images/Essai-01-cantillon.jpg)
 
@@ -125,7 +127,7 @@
 >
 > — Cantillon, Essai sur la nature du commerce en général (1755), II.6 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/w7vWXLMW4zk
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 03 集
 
 **奥派的读法（一种视角）**: 这就是后人所说的「坎蒂隆效应」：新钱从一个入口进入经济，离入口近的人先受益，拿固定收入、离入口远的人最后才感到物价上涨。
 
@@ -149,7 +151,7 @@
 >
 > — 《史记·仲尼弟子列传》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/sDdC8P0WkXY
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 04 集
 
 ![科尼利尔斯·范德比尔特](images/VanderbiltPortrait-06-vanderbilt.jpg)
 
@@ -163,7 +165,7 @@
 >
 > — W. A. Croffut, The Vanderbilts and the Story of Their Fortune (Chicago: Belford, Clarke, 1886), Internet Archive OCR text · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/Pt46tWaET18
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 04 集
 
 **奥派的读法（一种视角）**: 企业家的工作就是在不确定中判断未来的需求。为学会新技术而放弃当下收入，是把「时间」投进去的资本决策。
 
@@ -185,7 +187,7 @@
 >
 > — 《史记·货殖列传》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/8UlRoj6NeTk
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 05 集
 
 ![安德鲁·卡内基](images/CarnegiePortrait-08-carnegie.jpg)
 
@@ -199,7 +201,7 @@
 >
 > — Autobiography of Andrew Carnegie (Boston: Houghton Mifflin, 1920), Project Gutenberg #17976 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/_z3ZMc3S1Wo
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 05 集
 
 **奥派的读法（一种视角）**: 没有人能掌握全部信息，大势只能靠一个个企业家分散地判断。谁判断对了，市场用利润奖励他；判断错了，用亏损纠正他。
 
@@ -225,7 +227,7 @@
 >
 > — 《左传·僖公三十三年》（含僖公三十二年传） · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/dTXHsQ3QZvQ
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 06 集
 
 ![内森·罗斯柴尔德](images/NathanPortrait-05-rothschild.jpg)
 
@@ -239,7 +241,7 @@
 >
 > — Jewish Encyclopedia (1901-1906), Vol. 10 (1905), 'Rothschild' (by Joseph Jacobs), jewishencyclopedia.com transcription · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/YEFU9f-R4RM
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 06 集
 
 **奥派的读法（一种视角）**: 哈耶克认为市场的本质是分散知识的传递。及时、真实地传递关键信息，让别人能据此调整，本身就是一种贡献。
 
@@ -263,7 +265,7 @@
 >
 > — 《史记·货殖列传》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/8UlRoj6NeTk
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 07 集
 
 ![科尼利尔斯·范德比尔特](images/VanderbiltPortrait-06-vanderbilt.jpg)
 
@@ -277,7 +279,7 @@
 >
 > — 1911 Encyclopædia Britannica, 'Vanderbilt, Cornelius' (Vol. 27) · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/Pt46tWaET18
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 07 集
 
 **奥派的读法（一种视角）**: 企业家利润来自发现别人没注意到的机会，比如一条更短的路、一个更好的集散地；一旦别人跟进，这份利润就会被竞争摊薄。
 
@@ -299,7 +301,7 @@
 >
 > — 《史记·吕不韦列传》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/Kd3TZvUaSDM
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 08 集
 
 ![雅各布·富格尔](images/JakobDurer-02-fugger.jpg)
 
@@ -313,7 +315,7 @@
 >
 > — Richard Ehrenberg, Das Zeitalter der Fugger, Bd. 1 (Jena, 1896), Internet Archive OCR · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/BuzoF6j1md0
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 08 集
 
 **奥派的读法（一种视角）**: 靠政治特权赚到的钱，和靠服务顾客赚到的钱性质不同；前者依赖权力的恩惠，权力一变，收益就可能被收回。
 
@@ -339,7 +341,7 @@
 >
 > — 《史记·货殖列传》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/_fZIc-ObEjE
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 09 集
 
 ![雅各布·富格尔](images/JakobDurer-02-fugger.jpg)
 
@@ -353,7 +355,7 @@
 >
 > — Richard Ehrenberg, Das Zeitalter der Fugger, Bd. 1 (Jena, 1896), Internet Archive OCR · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/BuzoF6j1md0
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 09 集
 
 **奥派的读法（一种视角）**: 资源本身不等于财富，能把资源组织起来满足需求的人，才让它变成财富；但靠特许和独占维持的地位，竞争一放开就会受挑战。
 
@@ -375,7 +377,7 @@
 >
 > — 《清稗类钞·农商类》（徐珂，1917） · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/SBmsxD_lXB8
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 10 集
 
 ![美第奇银行](images/Cosimo-01-medici.jpg)
 
@@ -389,7 +391,7 @@
 >
 > — 1911 Encyclopædia Britannica, 'Medici' (by Pasquale Villari) · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/6VVdgpJ0KNs
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 10 集
 
 **奥派的读法（一种视角）**: 汇兑和存放款网络节省了运送现银的成本和风险，这是银行为客户创造的真实价值；网络越大，越要靠严格的规则和准备金守住信用。
 
@@ -413,7 +415,7 @@
 >
 > — 《清稗类钞·农商类》（徐珂，1917） · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/SBmsxD_lXB8
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 11 集
 
 ![亨利·福特](images/AssemblyLine1913-10-ford.jpg)
 
@@ -427,7 +429,7 @@
 >
 > — Henry Ford, in collaboration with Samuel Crowther, 'My Life and Work' (Garden City, NY: Doubleday, Page & Co., 1922), Project Gutenberg #7213 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/YJ17wNLNRt0
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 11 集
 
 **奥派的读法（一种视角）**: 工资是价格的一种。福特自愿提高工资，是因为他算出了员工流失的真实成本，这是企业家基于本地信息的判断，不是外部规定的结果。
 
@@ -451,7 +453,7 @@
 >
 > — 《清稗类钞·农商类》（徐珂，1917） · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/SBmsxD_lXB8
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 12 集
 
 ![J·P·摩根](images/MorganPortrait-09-morgan.jpg)
 
@@ -465,7 +467,7 @@
 >
 > — Money Trust Investigation, Hearings before a Subcommittee of the House Committee on Banking and Currency, Part 15 (GPO, 1913): testimony of J. Pierpont Morgan, Dec. 19, 1912, Internet Archive OCR (aeu8665.0015.001.umich.edu) · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/NpiFyxMdu-g
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 12 集
 
 **奥派的读法（一种视角）**: 信用是对未来的判断，而未来无法完全抵押。放款人真正评估的是借款人的计划和品行，这部分信息只有当事人自己能积累。
 
@@ -491,7 +493,7 @@
 >
 > — Hummel ed., Eminent Chinese of the Ch'ing Period (1943), 'Wu Ping-chien' by Hiromu Momose · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/71iKA1O9EdE
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 13 集
 
 ![J·P·摩根](images/MorganPortrait-09-morgan.jpg)
 
@@ -505,7 +507,7 @@
 >
 > — Carl Hovey, The Life Story of J. Pierpont Morgan (New York: Sturgis & Walton, 1911), ch. 'The Panic of 1907' (sympathetic biography), Internet Archive OCR (cu31924002403529) · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/NpiFyxMdu-g
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 13 集
 
 **奥派的读法（一种视角）**: 替经营不善者兜底，会让人以为犯错没有代价（道德风险）；让坏账在可控范围内出清，市场才能把资源转给更会经营的人。
 
@@ -531,7 +533,7 @@
 >
 > — 刘体智《异辞录》卷二 · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/L9EenUOTryQ
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 14 集
 
 ![约翰·劳](images/LawPortrait-04-john-law.jpg)
 
@@ -545,7 +547,7 @@
 >
 > — 1911 Encyclopædia Britannica, 'Law, John' (Vol. 16, by Francis Watt) · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/h2YUJ7sRSGw
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 14 集
 
 **奥派的读法（一种视角）**: 用短期借来的钱去做长期、难变现的投资（期限错配），平时看不出问题，一旦大家同时要钱，就会暴露。
 
@@ -569,7 +571,7 @@
 >
 > — 《明史·后妃传·太祖孝慈高皇后马氏》（卷113） · ★ 存疑 / 多为传说
 
-▶ 视频: https://youtu.be/fQ0uilG2MqA
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 15 集
 
 ![约翰·D·洛克菲勒](images/RockefellerPortrait-07-rockefeller.jpg)
 
@@ -583,7 +585,7 @@
 >
 > — Standard Oil Co. of New Jersey v. United States, 221 U.S. 1 (1911), Opinion of the Court (White, C.J.), Wikisource · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/WT8eQLsAKBk
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 15 集
 
 **奥派的读法（一种视角）**: 一些奥派学者认为标准石油的优势主要来自更低的成本，反托拉斯法有时惩罚的是效率；但两个案例都说明，规模越大，越要把政治与法律风险当作经营风险来管。
 
@@ -607,7 +609,7 @@
 >
 > — 刘体智《异辞录》卷二 · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/L9EenUOTryQ
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 16 集
 
 ![荷兰东印度公司](images/Share1606-03-voc.jpg)
 
@@ -621,7 +623,7 @@
 >
 > — 1911 Encyclopædia Britannica, 'Dutch East India Company, The' (Vol. 8) · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/l5JEkMXuTL0
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 16 集
 
 **奥派的读法（一种视角）**: 米塞斯把会计核算看作经济计算的基础，价格和账目失真，经营者就无法判断自己是在创造价值还是在消耗资本。
 
@@ -649,7 +651,7 @@
 >
 > — Who's Who in China, 3rd edition (Shanghai, 1925), 'Chang Chien' · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/vBfkozHTqoY
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 17 集
 
 ![荷兰东印度公司](images/Share1606-03-voc.jpg)
 
@@ -663,7 +665,7 @@
 >
 > — 1911 Encyclopædia Britannica, 'Dutch East India Company, The' (Vol. 8) · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/l5JEkMXuTL0
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 17 集
 
 **奥派的读法（一种视角）**: 股份制让储蓄者自愿把资本交给他们信任的经营者；份额越清楚、退出越自由，资本就越愿意流向远期项目。
 
@@ -689,7 +691,7 @@
 >
 > — Who's Who in China, 3rd edition (Shanghai, 1925), 'Chang Chien' · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/vBfkozHTqoY
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 18 集
 
 ![亨利·福特](images/AssemblyLine1913-10-ford.jpg)
 
@@ -703,7 +705,7 @@
 >
 > — Henry Ford, in collaboration with Samuel Crowther, 'My Life and Work' (Garden City, NY: Doubleday, Page & Co., 1922), Project Gutenberg #7213 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/YJ17wNLNRt0
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 18 集
 
 **奥派的读法（一种视角）**: 门格尔把生产看作由「高阶财货」一步步变成消费品的链条；把哪几环放在自己手里，是企业家对成本和风险的判断。
 
@@ -725,7 +727,7 @@
 >
 > — 《史记·越王勾践世家》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/8UlRoj6NeTk
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 19 集
 
 ![亨利·福特](images/AssemblyLine1913-10-ford.jpg)
 
@@ -739,7 +741,7 @@ T 型旅行车从 950 美元一路降到 355 美元，年产量从约 1.9 万辆
 >
 > — Henry Ford, in collaboration with Samuel Crowther, 'My Life and Work' (Garden City, NY: Doubleday, Page & Co., 1922), Project Gutenberg #7213 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/YJ17wNLNRt0
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 19 集
 
 **奥派的读法（一种视角）**: 在竞争市场里，利润是顾客对你服务得好的奖励；把成本省下来让给顾客，市场会扩大，长期利润未必更少。
 
@@ -761,7 +763,7 @@ T 型旅行车从 950 美元一路降到 355 美元，年产量从约 1.9 万辆
 >
 > — 《史记·货殖列传》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/xh9u-mRDxoc
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 20 集
 
 ![约翰·D·洛克菲勒](images/RockefellerPortrait-07-rockefeller.jpg)
 
@@ -775,7 +777,7 @@ T 型旅行车从 950 美元一路降到 355 美元，年产量从约 1.9 万辆
 >
 > — John D. Rockefeller, Random Reminiscences of Men and Events (New York: Doubleday, Page, 1909), Project Gutenberg #17090 via Internet Archive · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/WT8eQLsAKBk
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 20 集
 
 **奥派的读法（一种视角）**: 资本是一段时间里不断周转的结构；闲置的钱和积压的货，都在悄悄承担时间的成本。
 
@@ -801,7 +803,7 @@ T 型旅行车从 950 美元一路降到 355 美元，年产量从约 1.9 万辆
 >
 > — 罗家伦《抗战时期中央大学的迁校》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/T9D3PC-LN78
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 21 集
 
 ![内森·罗斯柴尔德](images/NathanPortrait-05-rothschild.jpg)
 
@@ -815,7 +817,7 @@ T 型旅行车从 950 美元一路降到 355 美元，年产量从约 1.9 万辆
 >
 > — Jewish Encyclopedia (1901-1906), Vol. 10 (1905), 'Rothschild' (by Joseph Jacobs), jewishencyclopedia.com transcription · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/YEFU9f-R4RM
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 21 集
 
 **奥派的读法（一种视角）**: 危机里价格信号混乱、风险骤增，愿意承担不确定性并把事办成的企业家，提供的正是别人提供不了的服务。
 
@@ -839,7 +841,7 @@ T 型旅行车从 950 美元一路降到 355 美元，年产量从约 1.9 万辆
 >
 > — 《史记·货殖列传》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/qVBmIomd8Sk
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 22 集
 
 ![安德鲁·卡内基](images/CarnegiePortrait-08-carnegie.jpg)
 
@@ -853,7 +855,7 @@ T 型旅行车从 950 美元一路降到 355 美元，年产量从约 1.9 万辆
 >
 > — Andrew Carnegie, 'Wealth', North American Review vol. 148 no. 391 (June 1889) — 'The Gospel of Wealth', Wikisource · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/_z3ZMc3S1Wo
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 22 集
 
 **奥派的读法（一种视角）**: 自愿的捐赠和私人基金会属于公民社会，与强制的再分配不同；捐给谁、怎么捐，是捐赠者自己的判断和责任。
 
@@ -877,7 +879,7 @@ T 型旅行车从 950 美元一路降到 355 美元，年产量从约 1.9 万辆
 >
 > — 《史记·越王勾践世家》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/qVBmIomd8Sk
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 23 集
 
 ![约翰·D·洛克菲勒](images/RockefellerPortrait-07-rockefeller.jpg)
 
@@ -891,7 +893,7 @@ T 型旅行车从 950 美元一路降到 355 美元，年产量从约 1.9 万辆
 >
 > — 1911 Encyclopædia Britannica, 'Rockefeller, John Davison' (Vol. 23) · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/WT8eQLsAKBk
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 23 集
 
 **奥派的读法（一种视角）**: 人的时间偏好和目标会随人生阶段变化；退出是重新配置自己最稀缺的资源——时间与注意力。
 
@@ -913,7 +915,7 @@ T 型旅行车从 950 美元一路降到 355 美元，年产量从约 1.9 万辆
 >
 > — 《史记·货殖列传》 · ★★★ 正史 / 当事人原文 / 官方文献
 
-▶ 视频: https://youtu.be/uLmBWmJJ7sQ
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 24 集
 
 ![科西莫·德·美第奇](images/Cosimo-01-medici.jpg)
 
@@ -927,7 +929,7 @@ T 型旅行车从 950 美元一路降到 355 美元，年产量从约 1.9 万辆
 >
 > — 1911 Encyclopædia Britannica, 'Medici' (by Pasquale Villari) · ★★ 后人记载 / 百科 / 传记
 
-▶ 视频: https://youtu.be/6VVdgpJ0KNs
+▶ 视频: 微信视频号「SheldonZhuang」·《生意经》第 24 集
 
 **奥派的读法（一种视角）**: 企业家的判断无法完全外包。所有者亲自承担盈亏、亲自观察市场，才能及时发现错误。
 

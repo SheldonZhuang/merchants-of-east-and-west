@@ -1,6 +1,8 @@
 # Merchants of East and West
 *24 Business Principles That Haven't Changed in 2,500 Years*
 
+Laws of Wealth · a bilingual history and economics channel
+
 > **History and business principles only. Not investment advice of any kind.**
 
 ## How to use this book
